@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Swaggster/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Swaggster/static/js/main.43b240c9.chunk.js",
+    "main.js.map": "/Swaggster/static/js/main.43b240c9.chunk.js.map",
+    "runtime-main.js": "/Swaggster/static/js/runtime-main.22f5f53a.js",
+    "runtime-main.js.map": "/Swaggster/static/js/runtime-main.22f5f53a.js.map",
+    "static/js/2.b8347fbc.chunk.js": "/Swaggster/static/js/2.b8347fbc.chunk.js",
+    "static/js/2.b8347fbc.chunk.js.map": "/Swaggster/static/js/2.b8347fbc.chunk.js.map",
+    "static/js/3.46d7ff56.chunk.js": "/Swaggster/static/js/3.46d7ff56.chunk.js",
+    "static/js/3.46d7ff56.chunk.js.map": "/Swaggster/static/js/3.46d7ff56.chunk.js.map",
+    "index.html": "/Swaggster/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Swaggster/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.b8347fbc.chunk.js.LICENSE.txt": "/Swaggster/static/js/2.b8347fbc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22f5f53a.js",
+    "static/js/2.b8347fbc.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.43b240c9.chunk.js"
+  ]
+}
