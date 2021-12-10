@@ -25,7 +25,7 @@ export default function LandingForm () {
     const checked = useWindowPosition('header');
     return (
         <div className ={classes.root} id="landing-form">
-            <FormCard />
+            <FormCard checked={checked}/>
         </div>
     );
 }
